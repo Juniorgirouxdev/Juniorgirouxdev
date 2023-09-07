@@ -3,8 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/juniorgirouxdev)
 
-![Junior G. GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?juniorgirouxdev=tws)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgirouxdev&hide_progress=true)
+![Junior G. GitHub stats](https://github-readme-stats.vercel.app/api?username=tws)
 
 ### Technologies I use 🤓
 
