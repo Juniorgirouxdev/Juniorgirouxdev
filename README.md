@@ -1,11 +1,15 @@
-## HI! My name is Junior Giroux 🖐️
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+# HI! My name is Junior Giroux 🖐️
+## Web development student with a focus on Front-end.
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniordevoficial/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/juniorgirouxdev)
 
 ![Junior Giroux GitHub stats](https://github-readme-stats.vercel.app/api?username=Juniorgirouxdev)
 
-### Technologies I use 🤓
+## Technologies I use 🤓
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,4 +18,4 @@
    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
 
-Passionate about technology, education and changing people's lives through programming.
+### Passionate about technology, education and changing people's lives through programming.
