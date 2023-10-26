@@ -1,4 +1,4 @@
-<img src="github-header-image.png">
+<img src="image.png">
 
 # HI! My name is Junior Giroux 🖐️
 ## Web development student with a focus on Front-end.
