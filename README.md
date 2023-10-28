@@ -1,7 +1,7 @@
 <img src="image.png">
 
-# HI! My name is Junior Giroux 🖐️
-## Web development student with a focus on Front-end.
+#Ollá me chamo Junior 🖐️
+## Sou estudante de desenvolvimento web.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniordevoficial/)
@@ -19,4 +19,4 @@
    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
 
-### Passionate about technology, education and changing people's lives through programming.
+### Apaixonado por tecnologia.
